@@ -213,6 +213,8 @@ The hub's Claude session drafted this article. After I set the direction, it wen
 
 ## Appendix
 
+The templates below are also available as ready-to-copy files in [`templates/en/`](templates/en/) ([`AGENTS.md`](templates/en/AGENTS.md) · [`task-card.md`](templates/en/task-card.md) · [`decision-log.md`](templates/en/decision-log.md)).
+
 <details>
 <summary>A. The hub's folders</summary>
 
@@ -287,6 +289,10 @@ Columns: time | ID | item | decision | routed to | source.
 - **Skills**: a shared skill library, one folder per skill (`SKILL.md` + `gotchas.md` + scripts). Before writing a new tool, search it first and copy the last approach that worked.
 - **Cross-session messaging**: see section 2.
 </details>
+
+## License
+
+Article text: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — share and adapt with credit. Templates in `templates/`: [MIT](templates/LICENSE). See [LICENSE](LICENSE).
 
 ## References
 

@@ -213,6 +213,8 @@ flowchart TB
 
 ## 附錄
 
+下面的範本也有獨立檔案，可以直接複製：[`templates/zh-TW/`](templates/zh-TW/)（[`AGENTS.md`](templates/zh-TW/AGENTS.md) · [`task-card.md`](templates/zh-TW/task-card.md) · [`decision-log.md`](templates/zh-TW/decision-log.md)）。
+
 <details>
 <summary>A. 轉接中心的資料夾</summary>
 
@@ -287,6 +289,10 @@ _locks/                    # GPU 鎖檔
 - **Skills**：共用技能庫，一個技能一個資料夾（`SKILL.md`＋`gotchas.md`＋腳本）。寫新工具之前先搜一次，找上次成功的做法照抄。
 - **跨對話傳訊**：見第二節。
 </details>
+
+## 授權
+
+文章內容：[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hant)，可轉載、可改寫，註明出處即可。`templates/` 裡的範本：[MIT](templates/LICENSE)，隨你使用。詳見 [LICENSE](LICENSE)。
 
 ## 參考
 

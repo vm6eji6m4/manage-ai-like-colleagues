@@ -1,0 +1,13 @@
+This repository uses two licenses.
+
+1. Article text — README.md, README.zh-TW.md
+   Creative Commons Attribution 4.0 International (CC BY 4.0)
+   https://creativecommons.org/licenses/by/4.0/legalcode
+   You may share and adapt the text for any purpose, including commercially,
+   as long as you give appropriate credit and link back to this repository.
+
+2. Templates — everything under templates/
+   MIT License (see templates/LICENSE)
+   Copy, change, and use them however you like.
+
+Copyright (c) 2026 vm6eji6m4
